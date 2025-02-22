@@ -1,6 +1,6 @@
 # **Projeto - FoodSaver**
 
-[Acesse o FoodSaver no Snack.Expo](https://snack.expo.dev/@caiquealmeida/foodsaver_async)
+[Acesse o FoodSaver no Snack.Expo](https://snack.expo.dev/@caiquealmr/foodsaver)
 
 - **Nome do Aluno:** Caíque Almeida Amaral
 - **Matrícula:** 202305874
@@ -78,8 +78,12 @@ O projeto nasceu da necessidade de oferecer uma solução prática e acessível 
 
 ### **Instalação Direta (Android)**
 
+Devido ao tamanho do arquivo .apk (cerca de 65 MB), o download não está hospedado no GitHub. Para baixar o aplicativo, siga o link abaixo e depois execute o passo a passo:
+
+[Download FoodSaver.apk](https://drive.google.com/file/d/16ZrbHgNC7maNIqAMuWAaLu2g1gsq7-iK/view?usp=drive_link)
+
 1. Baixe o arquivo `FoodSaver.apk`
-2. Transfira para seu dispositivo Android
+2. Transfira-o para seu dispositivo Android
 3. Execute a instalação seguindo as instruções na tela
 
 ---
@@ -116,4 +120,3 @@ O projeto nasceu da necessidade de oferecer uma solução prática e acessível 
 - **Expo**: [https://docs.expo.dev](https://docs.expo.dev)
 - **AsyncStorage**: [https://react-native-async-storage.github.io/async-storage/](https://react-native-async-storage.github.io/async-storage/)
 - **Moment.js**: [https://momentjs.com/docs/](https://momentjs.com/docs/)
-
