@@ -78,7 +78,7 @@ O projeto nasceu da necessidade de oferecer uma solução prática e acessível 
 
 ### **Instalação Direta (Android)**
 
-1. Baixe o arquivo `FoodSaver.exe`
+1. Baixe o arquivo `FoodSaver.apk`
 2. Transfira para seu dispositivo Android
 3. Execute a instalação seguindo as instruções na tela
 
